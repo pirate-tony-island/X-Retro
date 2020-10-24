@@ -3,6 +3,7 @@
 [Link](https://pirate-tony-island.github.io/X-Retro/)
 
 Example youtube video:
+
 ![Image](https://www.youtube.com/embed/culr9oX8ncs)
 
 You can use the [editor on GitHub](https://github.com/pirate-tony-island/X-Retro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -30,7 +31,9 @@ Syntax highlighted code block
 
 [Link](https://github.com/xjtuecho/EBAZ4205/blob/master/image/01-PCB-TL.jpg) and ![Image](https://github.com/xjtuecho/EBAZ4205/blob/master/image/01-PCB-TL.jpg)
 ```
+
 ![Image](https://github.com/xjtuecho/EBAZ4205/blob/master/image/01-PCB-TL.jpg)
+
 ![Image](https://github.com/xjtuecho/EBAZ4205/blob/master/image/01-PCB-TL.jpg?raw=true)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
