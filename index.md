@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://github.com/xjtuecho/EBAZ4205/blob/master/image/01-PCB-TL.jpg)
+[Link](https://github.com/xjtuecho/EBAZ4205/blob/master/image/01-PCB-TL.jpg) and ![Image](https://github.com/xjtuecho/EBAZ4205/blob/master/image/01-PCB-TL.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
