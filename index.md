@@ -2,6 +2,7 @@
 
 [Link](https://pirate-tony-island.github.io/X-Retro/)
 
+Example youtube video:
 ![Image](https://www.youtube.com/embed/culr9oX8ncs)
 
 You can use the [editor on GitHub](https://github.com/pirate-tony-island/X-Retro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
