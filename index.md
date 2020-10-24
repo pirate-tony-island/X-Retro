@@ -27,7 +27,8 @@ Syntax highlighted code block
 
 [Link](https://github.com/xjtuecho/EBAZ4205/blob/master/image/01-PCB-TL.jpg) and ![Image](https://github.com/xjtuecho/EBAZ4205/blob/master/image/01-PCB-TL.jpg)
 ```
-[Image](https://github.com/xjtuecho/EBAZ4205/blob/master/image/01-PCB-TL.jpg)
+![Image](https://github.com/xjtuecho/EBAZ4205/blob/master/image/01-PCB-TL.jpg)
+![Image](https://github.com/xjtuecho/EBAZ4205/blob/master/image/01-PCB-TL.jpg?raw=true)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
