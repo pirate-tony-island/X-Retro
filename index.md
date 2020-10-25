@@ -2,12 +2,10 @@
 
 [Link](https://pirate-tony-island.github.io/X-Retro/)
 
-Example youtube video:
-
+Example 3d model:
 
 <div class="sketchfab-embed-wrapper">
-    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/9e50f0408acb408eb3e5dafd9f7c42da/embed?autostart=1&amp;ui_controls=1&amp;ui_infos=1&amp;ui_inspector=1&amp;ui_stop=1&amp;ui_watermark=1&amp;ui_watermark_link=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>
+    <iframe title="A 3D model" width="640" height="480" src="https://sketchfab.com/models/9e50f0408acb408eb3e5dafd9f7c42da/embed?autospin=0.1&amp;autostart=1&amp;preload=1&amp;ui_controls=0&amp;ui_infos=0&amp;ui_inspector=0&amp;ui_stop=0&amp;ui_watermark=0&amp;ui_watermark_link=0" frameborder="1" allow="autoplay; fullscreen" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 You can use the [editor on GitHub](https://github.com/pirate-tony-island/X-Retro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
